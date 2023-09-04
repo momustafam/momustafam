@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed112025&label=Profile%20views&color=ec3232&style=flat" alt="mohammed112025" /> </p>
 
-- 👨‍💻 My public projects are available at -> [Portfolio Projects Repository](https://github.com/mohammed112025?tab=repositories)
-
+- 👨‍💻 My public projects are available at -> **[Portfolio Projects Repository](https://github.com/mohammed112025?tab=repositories)**
+  
 - 📫 How to reach me -> **mohammedmustafa112025@gmail.com**
 
-- 📄 How to reach my resume -> [My Resume](https://github.com/mohammed112025/Portfolio-Projects)
+- 📄 How to reach my resume -> **[My Resume](https://github.com/mohammed112025/Portfolio-Projects)**
 
 <h3 align="left">My profiles:</h3>
 <p align="left">
