@@ -1,5 +1,5 @@
 <h1 align="center">Mohammed Mustafa</h1>
-<h3 align="center">A passionate about Data Science, Machine Learning, and Software Engineering</h3>
+<h3 align="center">A passionate about Data Science, and Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed112025&label=Profile%20views&color=ec3232&style=flat" alt="mohammed112025" /> </p>
 
