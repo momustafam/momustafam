@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed112025&label=Profile%20views&color=ec3232&style=flat" alt="mohammed112025" /> </p>
 
-- 👨‍💻 Some of my portfolio projects are available at -> **[Portfolio Projects Repository](https://github.com/mohammed112025?tab=repositories)**
+- 👨‍💻 Some of my portfolio projects are available at -> **[Portfolio Projects Repository](https://github.com/mohammed112025/Portfolio-Projects)**
   
 - 📫 How to reach me -> **mohammedmustafa112025@gmail.com**
 
