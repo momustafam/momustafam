@@ -1,8 +1,9 @@
-<div style="text-align: center;"> 
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Mustafa
 ========================================================================================================================================
-**Software Engineer Trainee @ Holberton | Python, Django | Web Development**
+<h3>Software Engineer Trainee @ Holberton | Python, Django | Web Development</h3>
+
+<img align="center" src="https://th.bing.com/th/id/R.17847a02771d3d1ec0255eb59d61a0bf?rik=dp5%2fWo%2fZr06ikg&pid=ImgRaw&r=0" alt="wallpaper">
+
 
 *   🌍  I'm based in Egypt
 *   🖥️  See my portfolio at [MyWebsite](http://momustafa.tech)
@@ -52,8 +53,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### GitHub Stats
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=momustafam&data=followers,repositories,stars,commits&theme=dark)](https://github.com/AhmedAbozaid9/github-widgetbox) 
-</div>
 
 <img src="https://myreadme.vercel.app/api/embed/momustafam?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/momustafam/Portfolio-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=momustafam&repo=Portfolio-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/momustafam/alx-higher_level_programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=momustafam&repo=alx-higher_level_programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/momustafam/alx-low_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=momustafam&repo=alx-low_level_programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/momustafam/alx-system_engineering-devops" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=momustafam&repo=alx-system_engineering-devops&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+### Top Repositories
+<div width="100%" align="center"><a href="https://github.com/momustafam/Portfolio-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=momustafam&repo=Portfolio-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/momustafam/alx-higher_level_programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=momustafam&repo=alx-higher_level_programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/momustafam/alx-low_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=momustafam&repo=alx-low_level_programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/momustafam/alx-system_engineering-devops" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=momustafam&repo=alx-system_engineering-devops&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
