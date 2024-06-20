@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Mustafa
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Mohammed Mustafa
 ========================================================================================================================================
-<h3>Software Engineer Trainee @ Holberton | Python, Django | Web Development</h3>
+<h3>Data Scientist | Read Teamer | Software Engineer</h3>
 
 <img align="center" src="https://th.bing.com/th/id/R.17847a02771d3d1ec0255eb59d61a0bf?rik=dp5%2fWo%2fZr06ikg&pid=ImgRaw&r=0" alt="wallpaper">
 
